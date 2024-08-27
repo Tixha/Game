@@ -21,10 +21,16 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
-"Narrator": "res://Narrator.dch"
+"Narrator": "res://characters/Narrator.dch",
+"Shouko": "res://characters/Shouko.dch",
+"You": "res://Voices/You.dch"
 }
 directories/dtl_directory={
-"Scene": "res://Scene.dtl"
+"Scene": "res://Scene.dtl",
+"apology": "res://backgrounds/apology.dtl",
+"breakup ending": "res://breakup ending.dtl",
+"no play": "res://no play.dtl",
+"streamer": "res://streamer.dtl"
 }
 glossary/default_case_sensitive=true
 layout/style_list=["res://style.tres"]
