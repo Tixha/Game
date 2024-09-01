@@ -1,4 +1,4 @@
-[style name="style"]
+[style name="visual style"]
 [background arg="res://backgrounds/IMG_0120.jpg" fade="0.0"]
 This game contains sensitive topics and disturbing scenes.\
 If you are sensitive to topics such as death, insanity, and depression, please don't play this game.
@@ -11,14 +11,15 @@ Would you like to continue?
 Narrator: Welcome to my game
 [background arg="res://backgrounds/IMG_0104.jpg" fade="0.0"]
 [voice path="res://Voices/narrator 2.mp3" volume="0.0"]
-Narrator: This is Shouko, your long term girlfriend who is someone called a "Neet" (not in education, employment, or training).
 join Shouko left
+Narrator: This is Shouko, your long term girlfriend who is someone called a "Neet" (not in education, employment, or training).
 You: Shouko you know I never really asked this before but..
 - ask if she wants to work
 	Shouko frowns
 	Shouko: No!
 	- Ask why
 		I have a hard time getting out of bed and I hate people
+		jump apology/
 	- Keep pushing her to work
 		Shouko: Why do you keep pushing me to do something I dont want?!
 		- Apologize
@@ -28,3 +29,4 @@ You: Shouko you know I never really asked this before but..
 			leave Shouko
 			jump breakup ending/
 - ask if she wants to try out streaming
+	jump streamer/
