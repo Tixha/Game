@@ -16,12 +16,12 @@ Narrator: This is Shouko, your long term girlfriend who is someone called a "Nee
 You: Shouko you know I never really asked this before but..
 - ask if she wants to work
 	Shouko frowns
-	Shouko: No!
+	Shouko (talking): No!
 	- Ask why
-		I have a hard time getting out of bed and I hate people
+		Shouko (talking): I have a hard time getting out of bed and I hate people
 		jump apology/
 	- Keep pushing her to work
-		Shouko: Why do you keep pushing me to do something I dont want?!
+		Shouko (talking): Why do you keep pushing me to do something I dont want?!
 		- Apologize
 			jump apology/
 		- Break up with her

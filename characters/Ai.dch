@@ -8,25 +8,25 @@
 "sound_moods": {},
 "style": ""
 },
-"default_portrait": "New portrait",
+"default_portrait": "normal",
 "description": "",
-"display_name": "Shouko",
+"display_name": "Ai",
 "mirror": false,
 "nicknames": [""],
 "offset": Vector2(0, 0),
 "portraits": {
-"New portrait": {
+"Talking": {
 "export_overrides": {
-"image": "\"res://characters/IMG_0216.webp\""
+"image": "\"res://characters/Untitled33_20240903140747.webp\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
 "scene": ""
 },
-"talking": {
+"normal": {
 "export_overrides": {
-"image": "\"res://characters/IMG_0215.webp\""
+"image": "\"res://characters/Untitled33_20240903140538.webp\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
