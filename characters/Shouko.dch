@@ -24,6 +24,24 @@
 "scale": 1,
 "scene": ""
 },
+"angry talking": {
+"export_overrides": {
+"image": "\"res://characters/456975566_528525886378183_7845647086088598120_n.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
+"happy talking": {
+"export_overrides": {
+"image": "\"res://characters/457503984_393262633794063_7328068756954888585_n.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 1,
+"scene": ""
+},
 "talking": {
 "export_overrides": {
 "image": "\"res://characters/IMG_0215.webp\""
